@@ -7,7 +7,7 @@ package fibonaccidinamico;
 
 /**
  *
- * @author denny
+ * @author wolfie
  */
 public class FibonacciDinamico {
 
